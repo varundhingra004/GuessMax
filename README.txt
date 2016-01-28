@@ -1,0 +1,3 @@
+This is a console based multi player game that can be played on different computers. This game uses the TCP/IP Protocol.
+
+Each player generates a random number(like in a slot machine, number generation is however done via a function and not via events). The server then checks which player has generated the largest number. The player with the largest number wins. Winner information is displayed to all the players.
